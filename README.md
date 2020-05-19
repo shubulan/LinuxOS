@@ -5,3 +5,4 @@
 
 网址：https://time.geekbang.org/column/intro/164
 
+写作软件：Typora
